@@ -42,7 +42,7 @@ Los siguientes casos de prueba son públicos y servirán como referencia para ev
    **Salida Esperada:** `-0.8414709848078965`
 
 4. **Entrada:** `polinomio_taylor_seno(3.14159, 15)`  
-   **Salida Esperada:** `0.0000026535897933527` (Aproximadamente cercano a cero, considerando $\(\sin(\pi) = 0 \)$).
+   **Salida Esperada:** `0.0000026535897933527` (Aproximadamente cercano a cero, considerando $\(\sin(\pi\) = 0\)$).
 
 ---
 
