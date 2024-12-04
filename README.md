@@ -14,6 +14,7 @@ Donde:
 - $\(x^{2k+1} \)$: es la potencia impar del valor \( x \).
 - $\((2k+1)!\)$: es el factorial del exponente.
 
+## **Tiempo de solución 60 minutos**
 ---
 
 ## **Requisitos**
