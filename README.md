@@ -161,7 +161,7 @@ def polinomio_taylor_seno(x, n):
 
 ### **7. Consideraciones de Rendimiento**
 - **Tolerancia de error**:
-  - Ajusta el número de términos $\(n\)$ en función del error tolerado. Por ejemplo, puedes permitir una precisión específica (e.g., $\(10^{-6} \)$) y detener el cálculo cuando el término sea menor que este umbral.
+  - Ajusta el número de términos $\(n\)$ en función del error tolerado. Por ejemplo, puedes permitir una precisión específica  e.g., $\(10^{-6}\)$ y detener el cálculo cuando el término sea menor que este umbral.
 
 ---
 
