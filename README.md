@@ -7,9 +7,7 @@ Implemente una función en Python llamada `polinomio_taylor_seno(x, n)` que calc
 
 La fórmula para calcular el polinomio de Taylor de la función seno es:
 
-\[
-$sin(x) \approx \sum_{k=0}^{n} (-1)^k \frac{x^{2k+1}}{(2k+1)!}$
-\]
+$\[sin(x) \approx \sum_{k=0}^{n} (-1)^k \frac{x^{2k+1}}{(2k+1)!}\]$
 
 Donde:
 - \( (-1)^k \): alterna el signo entre positivo y negativo.
